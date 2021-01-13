@@ -1,0 +1,17 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+#clock{
+  text-align: center;
+  color: aqua;
+  font-size: 4rem;
+  position: relative;
+  top: 50%;
+  font-family: 'Crimson Text', serif;
+  margin-top: -2rem;
+}
+html, body{
+    height: 100%;
+  }
+
